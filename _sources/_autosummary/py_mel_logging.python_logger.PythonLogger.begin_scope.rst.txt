@@ -1,0 +1,6 @@
+begin\_scope
+============
+
+.. currentmodule:: py_mel_logging.python_logger
+
+.. automethod:: PythonLogger.begin_scope

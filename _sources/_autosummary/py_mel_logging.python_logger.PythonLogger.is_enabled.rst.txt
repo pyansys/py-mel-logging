@@ -1,0 +1,6 @@
+is\_enabled
+===========
+
+.. currentmodule:: py_mel_logging.python_logger
+
+.. automethod:: PythonLogger.is_enabled

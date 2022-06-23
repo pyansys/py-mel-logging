@@ -1,0 +1,6 @@
+log
+===
+
+.. currentmodule:: py_mel_logging.python_logger
+
+.. automethod:: PythonLogger.log
